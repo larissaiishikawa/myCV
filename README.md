@@ -1,19 +1,25 @@
 # LARISSA ISHIKAWA'S CURRICULUM VITAE
 
-![preview](preview.png)
+![preview](IMG/preview.png)
 
-![preview](preview2.png)
+![preview](IMG/preview3.png)
 
-Projeto construído com base em outro projeto antigo (NLW 2022), adaptado para a aula de Front-End na UTFPR-CP.
+![preview](IMG/preview2.png)
 
-[Clique aqui para acessar](https://larissaiishikawa.github.io/myCV//)
+##### Project built based on a previous project (NLW 2022), for the Front-End course.
 
-## Tecnologias
+[Click here to access](https://larissaiishikawa.github.io/myCV//)
 
+## Technologies and Tools
 - HTML
 - CSS
-- Git e GitHub
+- Javascript
+- Git & Github
 
-## Contato
+### Do you have any feedbacks?
+Please contact me! :D
+- My [e-mail](mailto:l.ishikawa@cunha)
+- My [linkedin](https://www.linkedin.com/in/larissaishikawacunha/)
 
-l.ishikawacunha@gmail.com
+
+###### Made with 💚 by [LARISSA ISHIKAWA](https://github.com/larissaiishikawa)
