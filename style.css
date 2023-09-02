@@ -19,6 +19,10 @@ header {
     margin-top: 32px;
 }
 
+header h1 {
+    font-style: italic;
+}
+
 header img {
     width: 150px;
     height: 150px;
@@ -43,7 +47,6 @@ h2 {
 ul li {
     list-style:circle;
 }
-
 
 ol {
     list-style: none;
@@ -71,14 +74,23 @@ section div {
     border-radius: 15px;;
 }
 
+li:hover {
+    text-decoration: underline #D6D1CD;
+}
+
+a:hover {
+    color: #16C60C;
+}
+
 .class-contact img {
     width: 30px;
     height: 30px;
 }
 
-footer {
+#footer {
     text-align: center;
     color: #D6D1CD;
+    font-style: oblique;
     font-weight: 700;
     font-size: 12px;
 }

@@ -8,7 +8,7 @@
 
 ##### Project built based on a previous project (NLW 2022), for the Front-End course.
 
-[Click here to access](https://larissaiishikawa.github.io/myCV//)
+Click [here](https://larissaiishikawa.github.io/myCV//)  to access!
 
 ## Technologies and Tools
 - HTML
