@@ -18,8 +18,8 @@
 
 ### Do you have any feedbacks?
 Please contact me! :D
-- My [e-mail](mailto:l.ishikawa@cunha)
-- My [linkedin](https://www.linkedin.com/in/larissaishikawacunha/)
+- My [E-mail](mailto:l.ishikawa@cunha)
+- My [Linkedin](https://www.linkedin.com/in/larissaishikawacunha/)
 
 
 ###### Made with 💚 by [LARISSA ISHIKAWA](https://github.com/larissaiishikawa)
